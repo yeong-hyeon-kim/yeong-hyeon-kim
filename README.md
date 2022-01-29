@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=yeong%20 hyeon&fontSize=90"/>
     <h2>🌟<b>Tech Stack</b>🌟</h2>
     <b>Techs that I've used at least once</b>
     <p>Languages</p>
