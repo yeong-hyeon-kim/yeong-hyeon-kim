@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TSNODE-3178C6?style=flat-square&logo=ts-node&logoColor=white"/>
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </span>
 
