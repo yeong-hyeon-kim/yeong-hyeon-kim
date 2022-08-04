@@ -1,4 +1,3 @@
-<img src="https://github.com/yeong-hyeon-kim/Archive/blob/main/Logo/test.svg"/>
 
 ## 💛 It's Me 💛
 <span>
