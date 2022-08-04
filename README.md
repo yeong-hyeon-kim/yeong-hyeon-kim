@@ -1,12 +1,18 @@
 
 ## 💛 It's Me 💛
+
+<span>
+<img src="https://github.com/yeong-hyeon-kim/README-Sign/blob/master/Sign.svg"/>
+</span>
+
+### ✉️ Contacts
+
 <span>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
 </span>
-</br>
 
-### ✉️ Contacts
+</br>
 
 <span>
 <img src="https://img.shields.io/badge/CODECHEMI@GMAIL.COM-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
