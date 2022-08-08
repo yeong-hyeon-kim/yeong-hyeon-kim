@@ -14,7 +14,7 @@
 
 ## ⭐ Tech Stack ⭐
 
-### 📋 Languages
+### Languages
 <span>
 <img src="https://img.shields.io/badge/CSHARP-239120?style=flat-square&logo=CSharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </span>
 
-### 📚 Frameworks, Platforms and Libraries
+### Frameworks, Platforms and Libraries
 <span>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
@@ -32,27 +32,27 @@
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </span>
 
-### 💾 Databases
+### Databases
 <span>
 <img src="https://img.shields.io/badge/SQL SERVER-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
 <img src="https://img.shields.io/badge/MY SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MARIA DB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 </span>
 
-### 🕓 Version Control
+### Version Control
 <span>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </span>
 
-### 💻 IDEs/Editors
+### IDEs/Editors
 <span>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </span>
 
-### 🔬 CI
+### CI
 <span>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
 </span>
