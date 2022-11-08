@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/TSNODE-3178C6?style=flat-square&logo=ts-node&logoColor=white"/>
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEQUELIZE-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
 </span>
 
 ### Databases
